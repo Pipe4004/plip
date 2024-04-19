@@ -1,0 +1,35 @@
+/* Estilos de los campos del formulario */
+.form-control {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Estilos de las etiquetas del formulario */
+.form-label {
+    font-weight: bold;
+}
+
+/* Estilos del botón */
+.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Cambio de color al pasar el cursor sobre el botón */
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos del mensaje de retroalimentación */
+.invalid-feedback {
+    color: #dc3545;
+}

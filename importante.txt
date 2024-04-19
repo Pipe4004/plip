@@ -1,0 +1,3 @@
+plop-- carpeta donde gurdamos los css con js y las img 
+
+cada archivo html tiene que tener su carpeta respetiva

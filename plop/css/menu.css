@@ -1,0 +1,16 @@
+
+
+.btn-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Opcional: Esto es para centrar verticalmente los botones */
+  }
+  
+  .btn-group a {
+    margin: 0 10px; /* Espaciado entre los botones */
+  }
+  
+  .btn-group button {
+    padding: 10px 20px; /* Ajusta el padding según sea necesario */
+  }
