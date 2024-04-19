@@ -1,4 +1,7 @@
 
+.container {
+  background-color: rgb(63, 53, 53);
+}
 
 .btn-group {
     display: flex;
