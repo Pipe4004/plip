@@ -1,3 +1,7 @@
 plop-- carpeta donde gurdamos los css con js y las img 
 
 cada archivo html tiene que tener su carpeta respetiva
+
+crear una carpeta para poner todas las carpetas dentro de esa misma nombre de la carpe en ProPro y dentro de esa se crea la otra carpeta llama plip y se meten
+todas las carpetas de git dentra de esas misma me dio flojera hacerlo yo uwu
+
