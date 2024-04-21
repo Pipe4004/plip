@@ -1,0 +1,7 @@
+
+.container-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Esto hace que el contenedor ocupe toda la altura de la ventana */
+}
