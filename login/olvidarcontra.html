@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olvidar Contraseña</title>
+    <link rel="stylesheet" href="../plop/css/contrasena.css">
+    <script src="../plop/js/mensaje.js"></script>
+</head>
+<body>
+    <div class="password-reset-container">
+        <h2>Olvidé mi Contraseña</h2>
+        <form id="forgotPasswordForm">
+            <div class="input-group">
+                <label for="correo">Correo Electrónico:</label>
+                <input type="email" id="correo" name="correo" required>
+            </div>
+            <button type="button" id="submitBtn">Enviar Instrucciones</button>
+        </form>
+    </div>
+    <div id="alerta" class="alerta oculto"></div>
+</body>
+</html>
